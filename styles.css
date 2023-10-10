@@ -64,6 +64,10 @@ h1{
     margin-top: 20px;
     font-size: 25px;
 }
+.coupon button{
+    padding: 10px 15px;
+    margin-left: -20px;
+}
 .button{
     height: 50px;
     width: 200px;
